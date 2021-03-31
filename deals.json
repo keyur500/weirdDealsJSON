@@ -1,0 +1,34 @@
+{
+    "weirdDeals": [
+        {
+            "productTitle" : "Uranium ore",
+            "productDescription" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/uranium-ore.jpg?w=1024&ssl=1",
+            "productPrice" : "39.95"
+        },
+        {   
+            "productTitle": "A home mushroom farm",
+            "productDescription": "Now you can grow your own fungus right at home—and not in between your toes!",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/81WCBll2QvL._SL1500_.jpg?w=745&ssl=1",
+            "productPrice": "22.85"
+        },
+        {
+            "productTitle": "A wall decal of senior citizens in a golf cart",
+            "productDescription": "Some people decorate their walls with wallpaper, and others with art. And you can make your own home stand out by decorating with this decal of senior citizens riding in a golf cart.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/seniors-wall-decal.jpg?w=1024&ssl=1",
+            "productPrice": "21.96"
+        },
+        {
+            "productTitle": "A peanut butter and jelly of the month club",
+            "productDescription": "If you've ever thought to yourself, Spreading peanut butter and jelly on bread is too time-consuming, Amazon has the answer. For just under $40 a month, you can enjoy gourmet peanut butter and jelly sandwiches, delivered straight to your door.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/peanut-butter-and-jelly-club.jpg?w=1024&ssl=1",
+            "productPrice": "468.96"
+        },
+        {
+            "productTitle": "A baby mop",
+            "productDescription": "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/baby-mop.jpg?w=1024&ssl=1",
+            "productPrice": "29.99"
+        }
+    ]
+}
