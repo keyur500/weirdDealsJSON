@@ -1,5 +1,4 @@
-{
-    "weirdDeals": [
+[
         {
             "productTitle" : "Uranium ore",
             "productDescription" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.",
@@ -30,5 +29,5 @@
             "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/baby-mop.jpg?w=1024&ssl=1",
             "productPrice": "29.99"
         }
-    ]
-}
+]
+
